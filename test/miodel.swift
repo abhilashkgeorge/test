@@ -6,3 +6,10 @@
 //
 
 import Foundation
+
+class test () {
+    
+    func tes() {
+        print("hello")
+    }
+}
